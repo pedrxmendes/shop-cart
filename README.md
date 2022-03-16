@@ -1,2 +1,5 @@
-# shop-cart
- Processo Seletivo - CODEBY
+## shop-cart
+Por Pedro Henrique Mendes
+@pedrxmendes
+
+*Desafio feito pela Codeby*
